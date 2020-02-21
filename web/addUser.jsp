@@ -11,8 +11,8 @@
     <title>User Add</title>
 </head>
 <body>
-<p><a href="/update">Update User</a> |
-    <a href="/del">Delete User</a></p>
+<%--<p><a href="/update">Update User</a> |--%>
+    <%--<a href="/del">Delete User</a></p>--%>
 <h3>User Add</h3>
 
 <form>
